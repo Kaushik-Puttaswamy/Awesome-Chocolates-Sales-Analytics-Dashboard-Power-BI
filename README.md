@@ -14,9 +14,11 @@ The **Sales Analytics Dashboard** provides a comprehensive analysis of **Awesome
 	
 •	🌐 Live Power BI Report: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=9299d313-ba28-4616-b05e-4a69d6227e4d&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab)
 
- # 📊 Dashboard & Features
-
+ # 📊 Dashboard 
+ 
 ![Screenshot Sales Analytics Dashboard.png](https://github.com/Kaushik-Puttaswamy/Sales-Analytics-Dashboard-Using-Power-BI/blob/Dev/Screenshot%20Sales%20Analytics%20Dashboard.png)
+
+# 🔎 Features
 
 ## 🔹 Key Metrics Overview
 	
