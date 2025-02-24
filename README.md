@@ -1,8 +1,8 @@
-# 📊 Sales Analytics Dashboard - Power BI
+# 📊 Awesome Chocolates Sales Analytics Dashboard - Power BI
 
 # 📝 Overview
 
-The **Sales Analytics Dashboard** provides a comprehensive analysis of **Awesome Chocolates** company’s sales performance. It offers interactive visualizations of key business metrics such as **total sales, shipments, costs, profit margins, and product-wise performance**. The dashboard is designed to help stakeholders make data-driven decisions and identify trends in sales.
+The **Awesome Chocolates Sales Analytics Dashboard** provides a comprehensive analysis of **Awesome Chocolates** company’s sales performance. It offers interactive visualizations of key business metrics such as **total sales, shipments, costs, profit margins, and product-wise performance**. The dashboard is designed to help stakeholders make data-driven decisions and identify trends in sales.
 
 # 📂 Project Files
 
