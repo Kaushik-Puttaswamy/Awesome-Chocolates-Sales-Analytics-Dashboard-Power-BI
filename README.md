@@ -11,6 +11,9 @@ The **Awesome Chocolates Sales Analytics Dashboard** provides a comprehensive an
 •	📄 PDF Report: Sales Analytics Dashboard.pdf
 	
 •	🖼️ Dashboard Screenshot: Screenshot Sales Analytics Dashboard.png
+
+•	📐 Data Modeling File: Data Modeling.png
+
 	
 •	🌐 Live Power BI Report: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=9299d313-ba28-4616-b05e-4a69d6227e4d&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab)
 
